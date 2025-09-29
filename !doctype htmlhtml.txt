@@ -1,6 +1,0 @@
-<!doctype html><html>
-<head><title>student form </head></title>
-<body>
-<form>
-name:<input type="text
-"
