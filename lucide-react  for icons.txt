@@ -1,0 +1,8 @@
+lucide-react  for icons
+react-router-dom to route or connect pages
+tailwind-merge always when using tailwind
+
+
+radix-ui/react-toast
+class-variance-authority
+clsx

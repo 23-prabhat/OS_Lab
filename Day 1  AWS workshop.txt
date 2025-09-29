@@ -1,0 +1,52 @@
+Day 1 : AWS workshop
+date:22/08/2025
+place:CF lab CSE dept GECA
+arrival of guest 11:15
+started the session
+knowledge about cloud(Nsit se cloud ka batya using website and ppt in detail
+1.what is required in cloud
+2.why cloud at 12:03
+    2.1.cover about oracle while comparing why to shift on cloud
+3.benifits: changes in business due to cloud (covered four main areas : virutalization ,Democratization of computing , scalibilty and fast provising ,commoditization of infrastructure) 12:18
+4.services model or Cloud stack : explain about IaaS ,PaaS , Saas .
+5.deployment models in cloud : public , private , community and hybrid cloud(VPC and cloud burst))
+practical session begins 12:35
+AWS hands on practice start :
+1.about S3
+2.difference btween enterprise cloud and conmut cloud (example googledrive)
+session end at 1 pm homework to create a bucket and try to familiar with s3 
+
+post event felicitation by chkkrwar mam and injamuri to felicitate guest and club head to felicitate injamuri and chkkwar mam 
+
+Day 2
+AWS workshop
+place : c12 cse dept
+session start at 11:10
+topic: 
+1.started the session on S3
+2.hosting website using S3 step by step
+3.started about the service ec2 at 12:15
+hands on practice on ec2
+
+end at 1:06 pm homework to go through all steps once again 
+
+day 3
+
+started session at 11:15
+place: c12 cse dept
+
+topic:
+two-tier web app hosting
+  1.first setup of RDS(creating database)
+  2.frontend deployment using EC2
+  3.set up python flask on ec2
+  4.sql setup
+  5.python and sql connection
+end of last session on note that they will share wp group link with all required component at and info about genai and its tools and about devops about data binary his yt channel and club head thanks to speaker for conducting event and the story behind this event arrangement and grp photo
+  
+
+
+
+  
+
+
